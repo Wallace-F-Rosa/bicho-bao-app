@@ -20,9 +20,9 @@ Do lado do veterinário facilitaríamos o lançamento das informações centrali
 
 Cada funcionalidade equivale a um micro serviço e deve ter sua descrição e detalhes separados nas páginas abaixo:
 
-- [API REST](bicho-bao-api/README.me)
+- [API REST](https://github.com/Wallace-F-Rosa/bicho-bao-api)
 
-- [Controle de dados de animais](bicho-bao-animal/README)
+- [Controle de dados de animais](https://github.com/Wallace-F-Rosa/bicho-bao-animal)
  
 - Controle de exames e laudos veterinários
  

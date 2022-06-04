@@ -1,0 +1,6 @@
+[submodule "bicho-bao-api"]
+	path = bicho-bao-api
+	url = git@github.com:Wallace-F-Rosa/bicho-bao-api.git
+[submodule "bicho-bao-animal"]
+	path = bicho-bao-animal
+	url = git@github.com:Wallace-F-Rosa/bicho-bao-animal.git
